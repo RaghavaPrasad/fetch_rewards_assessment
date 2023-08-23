@@ -17,7 +17,7 @@ Files Description:
 4. users.json:
    Provides information about users, such as ID, activity status, created date, role, and state.
    
-5. fetch_assessment.ipynb:
+5. fetch_assessment.ipynb: https://colab.research.google.com/github/RaghavaPrasad/fetch_rewards_assessment/blob/main/fetch_assessment.ipynb
    A Jupyter notebook containing data analysis and processing steps.
 
 Insights:
